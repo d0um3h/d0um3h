@@ -18,4 +18,4 @@
 Intérmédiaire|Intérmédiaire|Débutant|Comming Soon
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0um3h)](https://github.com/d0um3h/github-readme-stats)
+![Statistiques de D0UM3H](https://github-readme-stats.vercel.app/api?username=d0um3h&show_icons=true&theme=shadow_red&include_all_commits=true)
